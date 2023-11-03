@@ -1,8 +1,8 @@
 # 335-Project1
 
 ## Group Members:
-Adam Sharif Hasim - ashasim@csu.fullerton.edu
-Charlie Nguyen - 
+Adam Sharif Hasim - ashasim@csu.fullerton.edu  
+Charlie Nguyen - 20cnguyen7@csu.fullerton.edu  
 
 ## Running the Program:
 1. Download and extract .zip file contents into any directory.
@@ -12,3 +12,5 @@ Charlie Nguyen -
 ## Known Issues:
 - Inputs in input.txt must be the time format of [HH:MM] or [XX:YY]
 - Output.txt will always be appended (previous entries won’t get deleted)
+
+### Mathematical Analysis is in Report
